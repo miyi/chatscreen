@@ -8,12 +8,12 @@ class Fire {
 
   init = () =>
     firebase.initializeApp({
-      apiKey: "AIzaSyDxSwD9MPYGuN17wq9WX5E5p_24yiJADdI",
-			authDomain: "clubhouse-b84d3.firebaseapp.com",
-			databaseURL: "https://clubhouse-b84d3.firebaseio.com",
-			projectId: "clubhouse-b84d3",
-			storageBucket: "clubhouse-b84d3.appspot.com",
-			messagingSenderId: "397384543822"
+      apiKey: 'AIzaSyDLgW8QG1qO8O5WZLC1U8WaqCr5-CvEVmo',
+      authDomain: 'chatter-b85d7.firebaseapp.com',
+      databaseURL: 'https://chatter-b85d7.firebaseio.com',
+      projectId: 'chatter-b85d7',
+      storageBucket: '',
+      messagingSenderId: '861166145757',
     });
 
   observeAuth = () =>
